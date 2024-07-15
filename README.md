@@ -14,7 +14,7 @@ Before you begin, ensure you have met the following requirements:
 Git must be installed on your operating system.
 
 # contact
-you can reach through kaleakansha094@gmail
+you can reach through kaleakansha094@gmail.com
 
 
 # Acknowledgement
