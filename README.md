@@ -9,11 +9,18 @@ This project is based on clone website of the popular streaming platform, Netfli
 Whether you're a movie enthusiast or a developer looking to explore website design, this project offers a hands-on experience in building a modern web application.
 Feel free to explore and contribute to enhance the project further!
 
-# Technology used
-html css
+# prequrities
+Before you begin, ensure you have met the following requirements:
+Git must be installed on your operating system.
+
+# contact
+you can reach through kaleakansha094@gmail
+
 
 # Acknowledgement
 Special thanks to the open-source community for fostering an environment of learning and innovation. Your valuable feedback and contributions are highly appreciated.
 If you find this project interesting or have suggestions for improvement, feel free to reach out and join the journey of making this Netflix landing page even more impressive.
 Happy coding!
+
+
 
